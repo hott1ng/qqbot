@@ -1,0 +1,2 @@
+[2023-04-29 00:55:25] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:53922->127.0.0.1:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-29 13:51:19] [WARNING]: Protocol -> device lock is disable. http api may fail. 
